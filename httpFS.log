@@ -1,0 +1,5 @@
+21:44:48 15.01.24: [ERROR] Error#1 - check connection or ip address
+21:45:11 15.01.24: Server was stoped
+21:45:16 15.01.24: Server was started at 172.20.20.20:8080 in '/storage/emulated/0'
+21:45:17 15.01.24: [172.20.20.20] GET [200] '/files/', 138 ms
+21:45:19 15.01.24: Server was stoped
